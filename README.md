@@ -71,7 +71,6 @@ Every problem class carries:
 | `techniques` | List of techniques used e.g. `["markov_chain", "recurrence"]` |
 | `source` | Link to original problem |
 | `description` | Full problem statement |
-| `intuition` | Key insight that unlocks the solution |
 
 ## Techniques
 

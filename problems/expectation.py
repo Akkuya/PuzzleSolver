@@ -9,6 +9,7 @@ class RollingTheBullet(Solver):
     Does rolling the barrel (shuffling) before next shot increase the probability of firing a bullet?
     """
     source = "https://brainstellar.com/puzzles/easy/1"
+    techniques = ["conditional probability", "expectation"]
 
     def solve(self):
         return 1/4
